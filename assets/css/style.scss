@@ -33,6 +33,17 @@ img {
   border-radius: 4px;
 }
 
+row {
+  margin-right: -15px;
+  margin-left: -15px;
+}
+col-md-4, col-md-8 {
+  position: relative;
+  min-height: 1px;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
 subtext {
   margin: 5px;
 }
