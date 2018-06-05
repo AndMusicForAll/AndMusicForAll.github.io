@@ -13,8 +13,7 @@ It is a long established fact that a reader will be distracted by the readable c
 
 #### Test image formatting/location with HTML in a .md file
 
-<img src="https://i.imgur.com/LqXyhDL.jpg" alt="Experimental!" width="480" height="360" border="10">
 <div id="title">
-  <span class="credits left"><img src="https://i.imgur.com/LqXyhDL.jpg" alt="Experimental!" width="480" height="360" border="10"></span>
-  <span class="credits right">Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</span>
+  <span class="credits left"><img src="https://i.imgur.com/LqXyhDL.jpg" alt="Experimental!" width="480" height="360"></span>
+  <span class="credits right">Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</span>
 </div>
