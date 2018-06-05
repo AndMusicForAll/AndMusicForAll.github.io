@@ -19,3 +19,33 @@ h1, h2, h3, h4, h5, h6 {
   font-family: 'OpenSansRegular', "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: normal;
 }
+
+section {
+  max-width:650px;
+  padding: 30px 0px 50px 0px;
+  margin: 20px 0;
+  margin-top: 70px;
+  
+  #title {
+    border: 0;
+    outline: none;
+    margin: 0 0 50px 0;
+    padding: 0 0 5px 0;
+    
+    h1 {
+      font-family: 'OpenSansLight', "Helvetica Neue", Helvetica, Arial, sans-serif;
+      font-weight: normal;
+      font-size: 40px;
+      text-align: center;
+      line-height: 36px;
+      color:#d6cdb1;
+    }
+    p {
+      color: #d6cdb1;
+      font-family: 'OpenSansLight', "Helvetica Neue", Helvetica, Arial, sans-serif;
+      font-weight: normal;
+      font-size: 18px;
+      text-align: center;
+    }
+  }
+}
