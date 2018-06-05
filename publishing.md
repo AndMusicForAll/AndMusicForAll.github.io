@@ -9,11 +9,3 @@ It is a long established fact that a reader will be distracted by the readable c
 
 #### Looking for the publications?
 [Click here for our articles!](https://halcyonassembly.wordpress.com/)
-
-
-#### Test image formatting/location with HTML in a .md file
-
-<div id="title">
-  <span class="credits left"><img src="https://i.imgur.com/LqXyhDL.jpg" alt="Experimental!" width="480" height="360"></span>
-  <span class="credits right">Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</span>
-</div>
