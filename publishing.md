@@ -10,5 +10,5 @@ It is a long established fact that a reader will be distracted by the readable c
 #### Looking for the publications?
 [Click here for our articles!](https://halcyonassembly.wordpress.com/)
 
-<img src="https://i.imgur.com/LqXyhDL.jpg">
+<img src="https://i.imgur.com/LqXyhDL.jpg" width="480" height="360" />
 <subtext>Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</subtext>
