@@ -12,3 +12,6 @@ Our goals as the Library Division are as follows:
 - Disseminate knowledge through the facilities and services on offer
 - Discover new ways of spreading said knowledge
 - Uncover lost knowledge, study, and ultimately offer it to others
+
+### Note
+This is currently a Work-In-Progress page for this division. Please check back in a little while once it's complete!

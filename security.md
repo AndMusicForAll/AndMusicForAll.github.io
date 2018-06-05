@@ -1,8 +1,3 @@
 # Security
 ## Protecting Eorzea At All Costs
-Not quite sure how you got here, but this site is supposed to be viewed on HA:RP's Enjin page in an embedded format.
-
-### Want to return?
-
-Click the link here to get where you want to go:
-[Halcyon Assembly Enjin](https://halcyon-assembly.enjin.com)
+This is currently a Work-In-Progress page for this division. Please check back in a little while once it's complete!

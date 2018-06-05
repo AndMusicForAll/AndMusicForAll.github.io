@@ -1,8 +1,6 @@
 # Publishing
 ## The Looking Glass Newspaper
-Not quite sure how you got here, but this site is supposed to be viewed on HA:RP's Enjin page in an embedded format.
+This is currently a Work-In-Progress page for this division. Please check back in a little while once it's complete!
 
-### Want to return?
-
-Click the link here to get where you want to go:
-[Halcyon Assembly Enjin](https://halcyon-assembly.enjin.com)
+### Looking for the publications?
+[Click here for our articles!](https://halcyonassembly.wordpress.com/)
