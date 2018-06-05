@@ -12,4 +12,4 @@ It is a long established fact that a reader will be distracted by the readable c
 [logo]: https://i.imgur.com/LqXyhDL.jpg "Logo Title Text 2"
 
 #### Test #2 of an image
-<img src="https://i.imgur.com/LqXyhDL.jpg" alt="Experimental!" width="240" height="180" border="10">
+<img src="https://i.imgur.com/LqXyhDL.jpg" alt="Experimental!" width="480" height="360" border="10">
