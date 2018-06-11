@@ -11,3 +11,8 @@ It is a long established fact that a reader will be distracted by the readable c
 [Click here for our articles!](https://halcyonassembly.wordpress.com/)
 
 <p><img style="float: left; margin: 0px 15px 15px 0px;" src="https://i.imgur.com/LqXyhDL.jpg" width="360" height="240" />Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).<br style="clear: both;" /></p>
+
+<div>
+  <img style="vertical-align:middle" src="https://i.imgur.com/LqXyhDL.jpg" />
+  <span style="">Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</span>
+</div>
