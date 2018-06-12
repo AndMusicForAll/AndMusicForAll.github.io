@@ -10,4 +10,15 @@ It is a long established fact that a reader will be distracted by the readable c
 #### Looking for the publications?
 [Click here for our articles!](https://halcyonassembly.wordpress.com/)
 
+<<<<<<< HEAD
 <img style="vertical-align:middle" src="https://i.imgur.com/LqXyhDL.jpg" width="360" height="240" />Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).<br style="clear: both;" />
+=======
+<div class="row">
+  <div class="col-md-4">
+    <img src="https://i.imgur.com/LqXyhDL.jpg" width="360" height="240" />
+  </div>
+  <div class="col-md-8">
+    <p>Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</p>
+  </div>
+</div>
+>>>>>>> parent of 0c58b65... Update publishing.md
