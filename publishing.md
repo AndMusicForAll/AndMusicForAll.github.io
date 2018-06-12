@@ -13,8 +13,8 @@ It is a long established fact that a reader will be distracted by the readable c
 <div class="row">
   <div class="column">
     <img style="vertical-align:middle" src="https://i.imgur.com/LqXyhDL.jpg" width="360" height="240" />
-  </div>
-  <div class="column" style="vertical-align:middle text-align:center" />
-    Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).
+    <span class="credits" style="padding:10px 20px;" />Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</span>
   </div>
 </div>
+
+
