@@ -20,6 +20,13 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: normal;
 }
 
+.wrapper {
+  max-width:800px;
+  margin:0 auto;
+  position:relative;
+  padding: 0 20px;
+}
+
 section {
   max-width:750px;
   padding: 20px 0px 40px 0px;
