@@ -46,5 +46,19 @@ section {
       font-size: 18px;
       text-align: center;
     }
+.column {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+    box-sizing: border-box;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+    }
   }
 }
