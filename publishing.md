@@ -10,4 +10,4 @@ It is a long established fact that a reader will be distracted by the readable c
 #### Looking for the publications?
 [Click here for our articles!](https://halcyonassembly.wordpress.com/)
 
-<<img style="vertical-align:middle" src="https://i.imgur.com/LqXyhDL.jpg" width="360" height="240" />Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).<br style="clear: both;" />
+<img style="vertical-align:middle" src="https://i.imgur.com/LqXyhDL.jpg" width="360" height="240" />Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).<br style="clear: both;" />
