@@ -15,6 +15,6 @@ It is a long established fact that a reader will be distracted by the readable c
     <img style="vertical-align:middle" src="https://i.imgur.com/LqXyhDL.jpg" width="360" height="240" />
   </div>
   <div class="col-md-8">
-    <p>Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</p>
+    Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).
   </div>
 </div>
