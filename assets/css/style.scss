@@ -27,6 +27,13 @@ h1, h2, h3, h4, h5, h6 {
   padding: 0 20px;
 }
 
+    credits {  
+    font-size: 11px;
+      font-family: 'OpenSansRegular', "Helvetica Neue", Helvetica, Arial, sans-serif;
+      font-weight: normal;
+      color: #696969;
+    }
+
 section {
   max-width:850px;
   padding: 20px 0px 40px 0px;
@@ -52,12 +59,6 @@ section {
       font-weight: normal;
       font-size: 18px;
       text-align: center;
-    }
-    credits {  
-    font-size: 11px;
-      font-family: 'OpenSansRegular', "Helvetica Neue", Helvetica, Arial, sans-serif;
-      font-weight: normal;
-      color: #696969;
     }
 .column {
     float: left;
