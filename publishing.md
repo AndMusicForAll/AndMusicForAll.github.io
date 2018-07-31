@@ -9,3 +9,4 @@ This is currently a Work-In-Progress page for this division. Please check back i
 [Click here for our articles!](https://halcyonassembly.wordpress.com/)
 
 <img style="vertical-align:middle" src="https://i.imgur.com/LqXyhDL.jpg" width="360" height="240" />
+(ignore me I'm triggering a page rebuild)
