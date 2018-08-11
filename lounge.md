@@ -1,5 +1,7 @@
-# Lounge
-# Serving and Connecting Eorzea's People with One Another
+<div id="title">
+  <h1>Lounge</h1>
+  <p>Serving and Connecting Eorzea's People with One Another</p>
+</div>
 
 It's been a day. Eorzea's workers, soldiers, adventurers and generals all require the same thing. Food, drink, and good company. This is the desire of Reverie's lounge, to ease the minds and bodies of all who enter our hall. Fresh ingredients, a wide selection of spirits, and good company with people that keep their fingers close to the pulse of all kinds of dealings, so long as they remain out of the underworld.
  
