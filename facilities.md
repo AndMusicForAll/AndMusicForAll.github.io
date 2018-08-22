@@ -14,4 +14,4 @@ Qualifications:
 * Ability to adapt to interactions that can quickly involve the whole company
 * Creative types who are comfortable around varied types of individuals from equally as varied backgrounds
 
-_((OOC Note: The Facilities division regularly involves creating roleplay from non-game mechanic premises. While Disciples of the Hand can all call a home within this division, it should be noted that there is more to living in Eorzea than just what is synthizable in the crafting menu.))_
+_((OOC Note: The Facilities division regularly involves creating roleplay from non-game mechanic premises. While Disciples of the Hand can all call a home within this division, it should be noted that there is more to living in Eorzea than just what is synthesizable in the crafting menu.))_
