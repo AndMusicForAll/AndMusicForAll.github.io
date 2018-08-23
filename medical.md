@@ -6,7 +6,7 @@ Here at Halcyon Assembly we have so many fun events and there's no shortage of a
 
 That, my friends, is where Medical Division comes in! 
 
-No good company is without the healers, the menders, and helping hands. Sure, we’re all helping each other on a daily basis but our line of work is so much more than a pat on the back! We cater to a wide variety of injuries and maladies: from papercuts, to crushed bones, even having an entire cave system dropped atop your head!
+No good company is without the healers, the menders, and helping hands. Sure, we’re all helping each other on a daily basis but our line of work is so much more than a pat on the back! We cater to a wide variety of injuries and maladies: from papercuts, to crushed bones, even having an entire cave system dropped atop your head! We even treat matters such as infection, disease, or even hauntings!
 
 Unskilled, untrained? Don’t worry! Our team of various backgrounds and expertise will happily teach you what they know to help you help yourself (or others)!
 
