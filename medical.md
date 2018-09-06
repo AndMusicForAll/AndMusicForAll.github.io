@@ -14,7 +14,7 @@ We attend most events ourselves or wait at the house on standby so we can always
 
 So what do you say? Dare to step into the clinic and see for yourself who the staff really are?
 
-Qualifications:
+### Qualifications
 * A willingness to offer aid to all who seek it
 * The ability to care for others at their potentially most vulnerable
 * A steady hand in potentially stressful or dangerous situations should the call be made
