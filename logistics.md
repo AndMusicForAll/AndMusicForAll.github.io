@@ -26,6 +26,5 @@ These are roles that members of this division can serve in or archetypes that ma
 * City-state Representatives
 * **Crafters for express purpose of selling/trading at market**
 
-
 ### OOC Note
 Minor assignments will function as behind the scene adventure. Assignments are given and then it is up to you to write the report and think of a reasonable outcome, such as the first example above. Other times, like the second, involve more direct roleplay opportunity.
