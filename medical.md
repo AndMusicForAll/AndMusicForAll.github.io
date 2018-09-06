@@ -18,3 +18,13 @@ Qualifications:
 * A willingness to offer aid to all who seek it
 * The ability to care for others at their potentially most vulnerable
 * A steady hand in potentially stressful or dangerous situations should the call be made
+
+### Examples Roles/Positions
+These are roles that members of this division can serve in or archetypes that may fit in well:
+* Pharmacists
+* Psychologists
+* Psychiatrist
+* Field/Combat Medics
+* Emergency Triage
+* Nurse or Doctor-in-Training, Assistant
+* Physical Therapists
