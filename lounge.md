@@ -12,4 +12,11 @@ Qualifications:
 * Ability to defuse situations that could escalate into security's jurisdiction.
 * Good communication skills that would assist you in aiding your fellow lounge workers.
  
+### Examples Roles/Positions
+These are roles that members of this division can serve in or archetypes that may fit in well:
+* Waiters / Waitresses
+* Hosts / Hostesses
+* Bartenders
+* Entertainers (Song, Dance, Instrument)
+ 
 _Notes: (OOC: Lounge is a fairly open ended division, you can help and participate with happenings without being a part of the division, nor does being part of the division exclude you from helping or even joining others. All who wish to help may do so, but as said before... Keep a clean shirt on.)_
