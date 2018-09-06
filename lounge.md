@@ -7,7 +7,7 @@ It's been a day. Eorzea's workers, soldiers, adventurers and generals all requir
  
 Our secondary focus is to offer a chance to those who would have none. This is achieved by either seating arrangements that would offer people the opportunity to associate and mingle, or even by offering a free meal and drink to those who find themselves on troubled times. All who would join in our cause, our goals, to grant succor to those who'd enter our halls will find their efforts well rewarded. Just please... Keep your shirt on, yes?
  
-Qualifications:
+### Qualifications
 * Understanding the menu and its ingredients
 * Ability to defuse situations that could escalate into security's jurisdiction.
 * Good communication skills that would assist you in aiding your fellow lounge workers.
