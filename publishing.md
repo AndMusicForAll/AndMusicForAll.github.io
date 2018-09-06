@@ -7,7 +7,7 @@ There’s a story burning within you. Not necessarily your own, but perhaps one 
 
 Welcome to The Looking Glass, the newspaper of The Halcyon Assembly. We’re not a two-gil rag spewing idle gossip and baseless rumors; rather, we pride ourselves on finding all the timely, accurate, and relevant news fit to print. From parties to persecution, masquerades to manhandling, taverns to treason; we are the paper that has a space for every writer. If you’ve been fearing your words aren’t worthy, seek us out; we have confidence that this could be the newsroom you’ve been looking for.
 
-Qualifications:
+### Qualifications
 * Enjoy writing individually and on a semi-soft deadline
 * Partake in supportive meetings every other Wednesday
 * Contribute to the story of those in the Free Company as well as those outside it
