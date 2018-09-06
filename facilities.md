@@ -14,4 +14,17 @@ Qualifications:
 * Ability to adapt to interactions that can quickly involve the whole company
 * Creative types who are comfortable around varied types of individuals from equally as varied backgrounds
 
+### Examples Roles/Positions
+These are roles that members of this division can serve in or archetypes that may fit in well:
+* Mechanics
+* Airship Crew / Mechanic
+* Housemaids / Butlers
+* General Repairperson
+* Groundskeepers
+* Stablekeeper / Chocobo Caretaker
+* Mail Room Operator
+* Tradesperson (Plumber, Electrician)
+* Carpentry
+* **Crafters for express purpose of supplying The Halcyon Assembly**
+
 _((OOC Note: The Facilities division regularly involves creating roleplay from non-game mechanic premises. While Disciples of the Hand can all call a home within this division, it should be noted that there is more to living in Eorzea than just what is synthesizable in the crafting menu.))_
