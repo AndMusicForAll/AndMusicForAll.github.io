@@ -14,5 +14,13 @@ Our goals as the Library Division are as follows:
 - Discover new ways of spreading said knowledge
 - Uncover lost knowledge, study, and ultimately offer it to others
 
+### Examples Roles/Positions
+These are roles that members of this division can serve in or archetypes that may fit in well:
+* Researchers
+* Scribes
+* Archaeologists
+* Archivists
+* Teachers
+
 ### Note
 This is currently a Work-In-Progress page for this division. Please check back in a little while once it's complete!
