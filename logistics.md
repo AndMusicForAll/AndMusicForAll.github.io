@@ -16,5 +16,16 @@ _On one of the trade trips to Kugane, Iona picked up an item from a small store.
 
 Does this sound like something you would enjoy? Well, Logistics may just be the spot for you then! 
 
+### Examples Roles/Positions
+These are roles that members of this division can serve in or archetypes that may fit in well:
+* Gatherers
+* Liaisons (merchants & connections)
+* Appraisers
+* Caravaneers
+* Quartermasters
+* City-state Representatives
+* **Crafters for express purpose of selling/trading at market**
+
+
 ### OOC Note
 Minor assignments will function as behind the scene adventure. Assignments are given and then it is up to you to write the report and think of a reasonable outcome, such as the first example above. Other times, like the second, involve more direct roleplay opportunity.
