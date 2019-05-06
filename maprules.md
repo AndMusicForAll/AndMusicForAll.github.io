@@ -1,5 +1,5 @@
 <div id="title">
-  <h1>Maps Run Rules)</h1>
+  <h1>Maps Run Rules</h1>
   <p>Shifting Altars, Lost/Hidden Canals, Aquapolis</p>
 </div>
 
