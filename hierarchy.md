@@ -41,3 +41,27 @@ Link | Link | Link | Link | Link | Link | Link
     <td>Nachtiyrn</td>
   </tr>
 </table>
+
+<table id="director">
+  <tr>
+    <td colspan="7">Divisional Heads</td>
+  </tr>
+  <tr>
+    <td>Facilities</td>
+    <td>Library</td>
+    <td>Logistics</td>
+    <td>Lounge</td>
+    <td>Medical</td>
+    <td>Publishing</td>
+    <td>Security</td>
+  </tr>
+  <tr>
+    <td>Kletlona</td>
+    <td>Kaetherlin</td>
+    <td>Iona</td>
+    <td>V'ara</td>
+    <td>Orda</td>
+    <td>Okuni</td>
+    <td>Claire</td>
+  </tr>
+</table>
