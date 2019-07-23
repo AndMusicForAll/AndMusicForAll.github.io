@@ -7,11 +7,11 @@
 
 Proprietor |
 ------------ |
-Casilmont
+Casilmont |
 
 Directorate | | |
 ------------ | ------------ | ------------ |
-Iona | V'ara | Nachtiyrn
+Iona | V'ara | Nachtiyrn |
 
 Divisions
 
