@@ -2,6 +2,7 @@
   <h1>Hierarchy</h1>
   <p>The structure of divisions and reports</p>
 </div>
+
 ### Format 1
 
 Proprietor |
