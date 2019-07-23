@@ -2,10 +2,9 @@
   <h1>Hierarchy</h1>
   <p>The structure of divisions and reports</p>
 </div>
-
 ### Format 1
 
-Proprietor
+Proprietor |
 ------------ |
 Casilmont
 
@@ -22,18 +21,18 @@ Link | Link | Link | Link | Link | Link | Link
 
 ### Format 2
 
-<table>
+<table id="prop">
   <tr>
-    <td align="center">Proprietor</td>
+    <td>Proprietor</td>
   </tr>
   <tr>
     <td>Casilmont</td>
   </tr>
 </table>
 
-<table>
+<table id="director">
   <tr>
-    <td colspan="3" align="center">Directorate</td>
+    <td colspan="3">Directorate</td>
   </tr>
   <tr>
     <td>Iona</td>
