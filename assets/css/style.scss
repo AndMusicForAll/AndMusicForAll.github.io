@@ -10,7 +10,13 @@ body {
   background: rgba(#252525, 0);
   background-attachment: fixed !important;
   background: linear_gradient(#2a2a29, #1c1c1c);
+ 
+  td {
+  text-align: center;
+  width: 100%
+  }
 }
+
  h1, h2, h3, h4, h5, h6 {
   color:#f3efb1;
   margin:0 0 10px;
@@ -22,11 +28,6 @@ body {
   margin:0 auto;
   position:relative;
   padding: 0 20px;
-}
-
-td {
-  text-align:center;
-  padding:5px 10px;
 }
 
  section {
