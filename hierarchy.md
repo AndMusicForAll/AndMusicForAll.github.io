@@ -3,28 +3,9 @@
   <p>The structure of divisions and reports</p>
 </div>
 
-### Format 1
-
-Proprietor |
------------- |
-Casilmont |
-
-Directorate | | |
------------- | ------------ | ------------ |
-Iona | V'ara | Nachtiyrn |
-
-Divisions
-
-Facilities | Library | Logistics | Lounge | Medical | Publishing | Security
------------- | ------------- | ------------ | ------------- | ------------ | ------------- | -------------
-Kletlona | Kaetherlin | Iona | V'ara | Orda | Okuni | Claire
-Link | Link | Link | Link | Link | Link | Link
-
-### Format 2
-
 <table id="prop">
   <tr>
-    <td>Proprietor</td>
+    <h1><td>Proprietor</td></h1>
   </tr>
   <tr>
     <td>Casilmont</td>
@@ -33,7 +14,7 @@ Link | Link | Link | Link | Link | Link | Link
 
 <table id="director">
   <tr>
-    <td colspan="3">Directorate</td>
+    <h1><td colspan="3">Directorate</td></h1>
   </tr>
   <tr>
     <td>Iona</td>
@@ -44,16 +25,16 @@ Link | Link | Link | Link | Link | Link | Link
 
 <table id="director">
   <tr>
-    <td colspan="7">Divisional Heads</td>
+    <h1><td colspan="7">Divisional Lead</td></h1>
   </tr>
   <tr>
-    <td>Facilities</td>
-    <td>Library</td>
-    <td>Logistics</td>
-    <td>Lounge</td>
-    <td>Medical</td>
-    <td>Publishing</td>
-    <td>Security</td>
+    <h2><td>Facilities</td></h2>
+    <h2><td>Library</td></h2>
+    <h2><td>Logistics</td></h2>
+    <h2><td>Lounge</td></h2>
+    <h2><td>Medical</td></h2>
+    <h2><td>Publishing</td></h2>
+    <h2><td>Security</td></h2>
   </tr>
   <tr>
     <td>Kletlona</td>
