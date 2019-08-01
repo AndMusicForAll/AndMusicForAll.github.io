@@ -7,13 +7,13 @@ The Halcyon Assembly is broken up into distinct Divisions that allow membership 
 
 The Halcyon Assembly consists of the following Divisions:
 
-* [Facilities](https://halcyon-assembly.enjin.com//facilities)
-* [Library](https://halcyon-assembly.enjin.com//library)
-* [Logistics](https://halcyon-assembly.enjin.com//logistics)
-* [Lounge](https://halcyon-assembly.enjin.com//lounge)
-* [Medical](https://halcyon-assembly.enjin.com//medical)
-* [Publishing](https://halcyon-assembly.enjin.com/m/publishing)
-* [Security](https://halcyon-assembly.enjin.com//security)
+* **[Facilities](https://halcyon-assembly.enjin.com//facilities)**
+* **[Library](https://halcyon-assembly.enjin.com//library)**
+* **[Logistics](https://halcyon-assembly.enjin.com//logistics)**
+* **[Lounge](https://halcyon-assembly.enjin.com//lounge)**
+* **[Medical](https://halcyon-assembly.enjin.com//medical)**
+* **[Publishing](https://halcyon-assembly.enjin.com/m/publishing)**
+* **[Security](https://halcyon-assembly.enjin.com//security)**
 
 Membership of a Division does not bar Agents from engaging in activities with other Divisions. In fact, Agents are encouraged to seek out opportunities to be involved and assist others as necessary. Our structure allows for Agents to have a direct report for assignments, questions, suggestions, or issues in the form of the Division Head. These individuals are responsible for managing the day-to-day assignments of Agents and ensuring completion of assignments based on the needs of the Company or other Agents as necessary.
 
