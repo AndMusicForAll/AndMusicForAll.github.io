@@ -21,6 +21,3 @@ These are roles that members of this division can serve in or archetypes that ma
 * Archaeologists
 * Archivists
 * Teachers
-
-### Note
-This is currently a Work-In-Progress page for this division. Please check back in a little while once it's complete!
