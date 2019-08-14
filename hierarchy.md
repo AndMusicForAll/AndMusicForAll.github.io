@@ -24,21 +24,21 @@ The Division Heads consist of the following:
 * Logistics - Iona Falconsoul
 * Lounge - V'ara Obahn
 * Medical - Orda Qalli
-* Publishing - Okuni Tomioka
-* Security - Claire Lionarm
+* Publishing - TBA
+* Security - Ariane Velanie
 
 New Hires are tasked with evaluating each Division over a two-sennight period to give them the opportunity to find where amongst the Company would suit them best. Division Heads are encouraged to reach out and interact with New Hires, as well, ensuring a smooth transition into their new role. The task of keeping Divisions on track and maintaining organization between them falls to the Directorate, which consists of the following:
 
 * Iona Falconsoul
 * V'ara Obahn
-* Nachtiyrn Thosinsyn
+* TBA
 
 Shaping, enacting, and monitoring the impact of policy and procedure are their bread and butter, ensuring that the overall goals and objectives of the Free Company are met. Working closely with the Proprietor, Casilmont Lavidien, the Directorate maintain the high-level management of Reverie and its functions, including hiring new Agents, forming and enforcing policy, and managing contracts and business dealings with external parties.
 
 ### Security-Specific Hierarchy
 The Security division maintains its own internal hierarchy for dictating orders on the field and in dangerous situations that call for it. Whenever an assignment or situation destabilizes, the following hierarchy is respected for communicating orders to both Agents apart of Security and all other Agents of The Halcyon Assembly.
-* Commander: Claire Lionarm
-* Lieutenants: Kaetherlin Weisser, Percevains Valeroyant, Nachtiyrn Thosinsyn
+* Commander: Ariane Velanie
+* Lieutenants: Kaetherlin Weisser
 * Corporal: Remaining Security Division members
 
 In the absence of a ranking Security Division Agent, the most senior Agent on hand assumes responsibility and final call for engagement or issuing orders.
