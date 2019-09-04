@@ -38,7 +38,7 @@ Shaping, enacting, and monitoring the impact of policy and procedure are their b
 ### Security-Specific Hierarchy
 The Security division maintains its own internal hierarchy for dictating orders on the field and in dangerous situations that call for it. Whenever an assignment or situation destabilizes, the following hierarchy is respected for communicating orders to both Agents apart of Security and all other Agents of The Halcyon Assembly.
 * Commander: Ariane Velanie
-* Lieutenants: Kaetherlin Weisser
+* Lieutenants: Nivie Rothbart, Kaetherlin Weisser
 * Corporal: Remaining Security Division members
 
 In the absence of a ranking Security Division Agent, the most senior Agent on hand assumes responsibility and final call for engagement or issuing orders.
