@@ -20,9 +20,9 @@ Membership of a Division does not bar Agents from engaging in activities with ot
 The Division Heads consist of the following:
 
 * Facilities - Kletlona Sykurwyn
-* Library - TBA
+* Library - Zeizei Zeloo
 * Logistics - Iona Falconsoul
-* Lounge - V'ara Obahn
+* Lounge - Alexander Brown
 * Medical - Orda Qalli
 * Publishing - Dorian Reed
 * Security - Ariane Velanie
@@ -30,7 +30,6 @@ The Division Heads consist of the following:
 New Hires are tasked with evaluating each Division over a two-sennight period to give them the opportunity to find where amongst the Company would suit them best. Division Heads are encouraged to reach out and interact with New Hires, as well, ensuring a smooth transition into their new role. The task of keeping Divisions on track and maintaining organization between them falls to the Directorate, which consists of the following:
 
 * Iona Falconsoul
-* V'ara Obahn
 * Zeizei Zeloo
 * Lynienne Charbonneau
 
