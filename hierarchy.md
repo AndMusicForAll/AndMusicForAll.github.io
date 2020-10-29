@@ -7,25 +7,21 @@ The Halcyon Assembly is broken up into distinct Divisions that allow membership 
 
 The Halcyon Assembly consists of the following Divisions:
 
-* **[Facilities](https://halcyon-assembly.enjin.com/facilities)**
-* **[Library](https://halcyon-assembly.enjin.com/library)**
-* **[Logistics](https://halcyon-assembly.enjin.com/logistics)**
-* **[Lounge](https://halcyon-assembly.enjin.com/lounge)**
-* **[Medical](https://halcyon-assembly.enjin.com/medical)**
-* **[Publishing](https://halcyon-assembly.enjin.com/publishing)**
+* **[Archives](https://halcyon-assembly.enjin.com/archives)**
+* **[Operations](https://halcyon-assembly.enjin.com/operations)**
 * **[Security](https://halcyon-assembly.enjin.com/security)**
+* **[Medical](https://halcyon-assembly.enjin.com/medical)**
+* **[Lounge](https://halcyon-assembly.enjin.com/lounge)**
 
 Membership of a Division does not bar Agents from engaging in activities with other Divisions. In fact, Agents are encouraged to seek out opportunities to be involved and assist others as necessary. Our structure allows for Agents to have a direct report for assignments, questions, suggestions, or issues in the form of the Division Head. These individuals are responsible for managing the day-to-day assignments of Agents and ensuring completion of assignments based on the needs of the Company or other Agents as necessary.
 
 The Division Heads consist of the following:
 
-* Facilities - Kletlona Sykurwyn
-* Library - Zeizei Zeloo
-* Logistics - Iona Falconsoul
-* Lounge - Alexander Brown
-* Medical - Orda Qalli
-* Publishing - Dorian Reed
+* Archives - Lynienne Chabonneau
+* Operations - Iona Falconsoul
 * Security - Ariane Velanie
+* Medical - Orda Qalli
+* Lounge - Alexander Brown
 
 New Hires are tasked with evaluating each Division over a two-sennight period to give them the opportunity to find where amongst the Company would suit them best. Division Heads are encouraged to reach out and interact with New Hires, as well, ensuring a smooth transition into their new role. The task of keeping Divisions on track and maintaining organization between them falls to the Directorate, which consists of the following:
 
@@ -41,4 +37,4 @@ The Security division maintains its own internal hierarchy for dictating orders 
 * Lieutenants: Nivie Rothbart, Angry Lily
 * Corporal: Remaining Security Division members
 
-In the absence of a ranking Security Division Agent, the most senior Agent on hand assumes responsibility and final call for engagement or issuing orders.
+In the absence of a ranking Security Division Agent, the highest-ranked Agent on hand assumes responsibility and final call for engagement or issuing orders.
