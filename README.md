@@ -1,8 +1,8 @@
 ## The Halcyon Assembly
 
-Not quite sure how you got here, but this site is supposed to be viewed on HA:RP's Enjin page in an embedded format.
+Not quite sure how you got here, but this site is supposed to be viewed on HA:RP's Guildtag page in an embedded format.
 
 ### Want to return?
 
 Click the link here to get where you want to go:
-[Halcyon Assembly Enjin](https://halcyon-assembly.enjin.com)
+[Halcyon Assembly](https://halcyon-assembly.guildtag.com/)
